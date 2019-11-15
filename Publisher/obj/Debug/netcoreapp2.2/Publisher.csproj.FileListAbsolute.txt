@@ -1,0 +1,15 @@
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\bin\Debug\netcoreapp2.2\Publisher.deps.json
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\bin\Debug\netcoreapp2.2\Publisher.runtimeconfig.json
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\bin\Debug\netcoreapp2.2\Publisher.runtimeconfig.dev.json
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\bin\Debug\netcoreapp2.2\Publisher.dll
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\obj\Debug\netcoreapp2.2\Publisher.AssemblyInfoInputs.cache
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\obj\Debug\netcoreapp2.2\Publisher.AssemblyInfo.cs
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\obj\Debug\netcoreapp2.2\Publisher.RazorAssemblyInfo.cache
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\obj\Debug\netcoreapp2.2\Publisher.RazorAssemblyInfo.cs
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\bin\Debug\netcoreapp2.2\Publisher.pdb
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\obj\Debug\netcoreapp2.2\Publisher.RazorTargetAssemblyInfo.cache
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\obj\Debug\netcoreapp2.2\Publisher.dll
+C:\Projects\DockerRabbit\DockerRabbit\Publisher\obj\Debug\netcoreapp2.2\Publisher.pdb
